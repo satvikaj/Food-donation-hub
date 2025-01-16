@@ -3,6 +3,7 @@ The Food Donation Hub is a web application designed to bridge the gap between fo
 
 
 #Features
+
 User-Friendly Interface: Simplified design for easy navigation.
 
 Food Donation: Allow users to list surplus food for donation.
