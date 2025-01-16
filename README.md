@@ -2,7 +2,7 @@
 The Food Donation Hub is a web application designed to bridge the gap between food donors and those in need. This platform enables users to donate surplus food, request food donations, and collaborate with NGOs to reduce food wastage and combat hunger.
 
 
-#Features
+Features
 
 User-Friendly Interface: Simplified design for easy navigation.
 
